@@ -1,5 +1,8 @@
 # Awesome DPI Bypass & Anti-Censorship Tools (2026)
 
+> 🛡️ **Don't want to configure routing cores and servers manually?**
+> Try [Celestride Premium](https://celestride.pro) — high-speed VLESS Reality & Hysteria 2 nodes, 1-minute setup on any device, and a **free 5-day trial**. No personal data or credit cards required.
+
 A collection of working tools, protocols, clients, and services to bypass Deep Packet Inspection (DPI), dodge ISP snooping, and get around local school/office firewalls or strict age-verification blocks.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
