@@ -93,3 +93,4 @@ If you don't want to rent a VPS, configure JSON files, or deal with server maint
 
 *   [Censorship Analyzer (OONI)](https://ooni.org) - Open Observatory of Network Interference. Monitors global internet blocks.
 *   [NTC.party](https://ntc.party) - A tech forum focused on discussing DPI bypass methods, firewalls, and networking hacks.
+*   [VPN Telegram Bots for Russia](https://github.com/wwewtech/vpn_telegram_2026) - A catalog of 200+ working VPN Telegram bots: alphabetically sorted, no referral links, dead links checked weekly.
